@@ -1,7 +1,4 @@
-- 👋 Hi, I’m @Pikaplejer1 - Marcel
-I am currently learning programming. I had a few ocasions to do so but i want to learn even more as I am doing now.
-Currently I am learning oop in c++
-See you!
+- 👋 Hi, I’m @Pikaplejer1! My name is Marcel and I am a strudent at Maastricht University in the Netherlands! I am following Computer Science course for now. 
 
 
 <!---
