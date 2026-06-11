@@ -5,7 +5,7 @@ Currently reinventing the wheel in C (on purpose).
 Relocating to Vienna, November 2026.
 
 ## Tech
-**Strong:** C · Java · C# (Unity) · GDScript (Godot) · Linux
+**Strong:** C · Java · C# (Unity) · GDScript (Godot) · Linux  
 **Working knowledge:** Kotlin · Python · Docker · 
 
 ## What I'm working on
